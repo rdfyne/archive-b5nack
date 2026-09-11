@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rdfyne.github.io/archive-b5nack/sitemap.xml
